@@ -3,3 +3,5 @@
 /videos_backup
 /videos/*
 /texts/*
+
+!__init__.py
